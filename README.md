@@ -7,6 +7,7 @@ Instructions for running the example shower
 2) You need ROOT for the histogramming: 'root-config' is called for compilation.
 
 3a) 'make example' for compiling with standard PowhegHooks
+
 3b) 'make example_QEDQCDHooks' for compiling with separate treatment of QED and QCD radiation
 
 4) For running, you need to specify an output root file and at least one lhe file, e.g.:
